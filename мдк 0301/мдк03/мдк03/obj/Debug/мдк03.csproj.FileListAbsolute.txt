@@ -1,0 +1,10 @@
+E:\мдк 0301\мдк03\мдк03\bin\Debug\мдк03.exe.config
+E:\мдк 0301\мдк03\мдк03\bin\Debug\мдк03.exe
+E:\мдк 0301\мдк03\мдк03\bin\Debug\мдк03.pdb
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.csproj.AssemblyReference.cache
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.Form1.resources
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.Properties.Resources.resources
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.csproj.GenerateResource.cache
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.csproj.CoreCompileInputs.cache
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.exe
+E:\мдк 0301\мдк03\мдк03\obj\Debug\мдк03.pdb
