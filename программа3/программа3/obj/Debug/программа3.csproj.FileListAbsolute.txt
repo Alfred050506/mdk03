@@ -1,0 +1,10 @@
+E:\Программа3\программа3\программа3\bin\Debug\программа3.exe.config
+E:\Программа3\программа3\программа3\bin\Debug\программа3.exe
+E:\Программа3\программа3\программа3\bin\Debug\программа3.pdb
+E:\Программа3\программа3\программа3\obj\Debug\программа3.csproj.AssemblyReference.cache
+E:\Программа3\программа3\программа3\obj\Debug\программа3.Form1.resources
+E:\Программа3\программа3\программа3\obj\Debug\программа3.Properties.Resources.resources
+E:\Программа3\программа3\программа3\obj\Debug\программа3.csproj.GenerateResource.cache
+E:\Программа3\программа3\программа3\obj\Debug\программа3.csproj.CoreCompileInputs.cache
+E:\Программа3\программа3\программа3\obj\Debug\программа3.exe
+E:\Программа3\программа3\программа3\obj\Debug\программа3.pdb
